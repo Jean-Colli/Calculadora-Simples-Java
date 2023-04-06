@@ -1,5 +1,4 @@
-# Projeto desenvolvido como Desafio de Projeto para o Bootcamp Orange Tech + Back End
-# desenvolvido pela DIO (Digital Innovation One) patrocinanda pelo banco Inter.
+# Projeto desenvolvido como Desafio de Projeto para o Bootcamp Orange Tech + Back End desenvolvido pela DIO (Digital Innovation One) patrocinanda pelo banco Inter.
 
 ## Projeto desenvolvido em Linguagem Java.
 
